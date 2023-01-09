@@ -144,12 +144,14 @@ text-decoration: none;
 /*========== MAIN ==========*/
 
 .hero-section-color{
-    width:;
+    width: 1440px;px;
     background: #2E2F42;
     margin-left: auto;
     margin-right: auto;
     padding-top: 188px;
     padding-bottom: 188px;
+    background-image: linear-gradient(rgb(46,47,66,0.7), rgb(46,47,66,0.7)), url(../images/hero/heroimg.jpg) ;
+    background-size: cover;
 }
 
 
@@ -234,6 +236,18 @@ border-radius: 4px;
     margin-left: 24px;
 }
 
+.sectiontwo-item-icon{
+
+padding-top: 24px;
+margin-bottom: 8px;
+width: 264px;
+height: 112px;
+background: #F4F4FD;
+border-radius: 4px;
+}
+
+
+
 .sectionthree{
     padding-bottom: 120px;
 }
@@ -260,14 +274,16 @@ border-radius: 4px;
     }
 
 .sectionfour{
+    width: 1440px;
     padding-top: 120px;
     padding-bottom: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #F4F4FD;
 }
 
     .sectionfour-list{
         display: flex;
-
-        background: #F4F4FD;
     }
 
 
