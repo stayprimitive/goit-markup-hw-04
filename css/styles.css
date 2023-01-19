@@ -106,7 +106,6 @@ letter-spacing: 0.02em;
 color: var(--secondary-color);
 }
 
-
 .contacts-nav-link:hover,
 .contacts-nav-link:focus {
 color:var(--hover-color)
@@ -163,7 +162,6 @@ text-decoration: none;
     background-image: linear-gradient(rgb(46,47,66,0.7), rgb(46,47,66,0.7)), url(../images/hero/heroimg.jpg) ;
     background-size: cover;
 }
-
 
 .hero-title{
 font-family: var(--primary-font);
